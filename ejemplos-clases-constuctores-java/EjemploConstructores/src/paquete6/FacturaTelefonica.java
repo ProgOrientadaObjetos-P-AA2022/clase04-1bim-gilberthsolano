@@ -16,6 +16,7 @@ public class FacturaTelefonica {
         numeroTelefono = "234567891";
         minutosMes = 200;
         valorMinuto = 0.15;
+       
 
     }
 
@@ -25,6 +26,7 @@ public class FacturaTelefonica {
         numeroTelefono = numTel;
         minutosMes = mMes;
         valorMinuto = vMinuto;
+       
 
     }
 

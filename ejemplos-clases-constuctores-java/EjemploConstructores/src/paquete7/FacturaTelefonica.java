@@ -61,4 +61,9 @@ public class FacturaTelefonica {
         return valorFactura;
     }
 
+    @Override
+    public String toString() {
+        return "FacturaTelefonica{" + "numeroTelefono=" + numeroTelefono + ", minutosMes=" + minutosMes + ", valorMinuto=" + valorMinuto + ", valorFactura=" + valorFactura + '}';
+    }
+
 }
